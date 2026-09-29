@@ -1,0 +1,51 @@
+{
+  "common": {
+    "search": "खोजें…",
+    "myProfile": "मेरी प्रोफ़ाइल",
+    "settings": "सेटिंग्स",
+    "logOut": "लॉग आउट",
+    "loading": "लोड हो रहा है…",
+    "save": "सेव करें",
+    "cancel": "रद्द करें",
+    "edit": "संपादित करें",
+    "delete": "हटाएं",
+    "view": "देखें",
+    "download": "डाउनलोड करें",
+    "continue": "जारी रखें",
+    "back": "वापस",
+    "next": "अगला",
+    "submit": "जमा करें",
+    "close": "बंद करें",
+    "yes": "हाँ",
+    "no": "नहीं","collapse": "Collapse",
+"workspace": "Workspace"
+  },
+  "nav": {
+    "dashboard": "डैशबोर्ड",
+    "myLearning": "मेरी लर्निंग",
+    "myCourses": "मेरे कोर्स",
+    "createCourse": "कोर्स बनाएं",
+    "trainerLibrary": "ट्रेनर लाइब्रेरी",
+    "assessments": "मूल्यांकन",
+    "trainees": "प्रशिक्षु",
+    "performance": "प्रदर्शन",
+    "competency": "क्षमता",
+    "profile": "प्रोफ़ाइल",
+    "notifications": "सूचनाएं",
+    "users": "उपयोगकर्ता",
+    "courses": "कोर्स",
+    "enrollments": "नामांकन",
+    "certifications": "प्रमाणन",
+    "announcements": "घोषणाएं",
+    "reports": "रिपोर्ट",
+    "settings": "सेटिंग्स",
+    "resources": "संसाधन",
+    "feedback": "प्रतिक्रिया",
+    "certificates": "प्रमाणपत्र"
+  },
+  "roles": {
+    "trainee": "प्रशिक्षु",
+    "trainer": "प्रशिक्षक",
+    "admin": "प्रशासक"
+  }
+}

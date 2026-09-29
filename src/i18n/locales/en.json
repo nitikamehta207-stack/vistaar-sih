@@ -1,0 +1,52 @@
+{
+  "common": {
+    "search": "Search…",
+    "myProfile": "My Profile",
+    "settings": "Settings",
+    "logOut": "Log Out",
+    "loading": "Loading…",
+    "save": "Save",
+    "cancel": "Cancel",
+    "edit": "Edit",
+    "delete": "Delete",
+    "view": "View",
+    "download": "Download",
+    "continue": "Continue",
+    "back": "Back",
+    "next": "Next",
+    "submit": "Submit",
+    "close": "Close",
+    "yes": "Yes",
+    "no": "No",
+    "collapse": "Collapse",
+"workspace": "Workspace"
+  },
+  "nav": {
+    "dashboard": "Dashboard",
+    "myLearning": "My Learning",
+    "myCourses": "My Courses",
+    "createCourse": "Create Course",
+    "trainerLibrary": "Trainer Library",
+    "assessments": "Assessments",
+    "trainees": "Trainees",
+    "performance": "Performance",
+    "competency": "Competency",
+    "profile": "Profile",
+    "notifications": "Notifications",
+    "users": "Users",
+    "courses": "Courses",
+    "enrollments": "Enrollments",
+    "certifications": "Certifications",
+    "announcements": "Announcements",
+    "reports": "Reports",
+    "settings": "Settings",
+    "resources": "Resources",
+    "feedback": "Feedback",
+    "certificates": "Certificates"
+  },
+  "roles": {
+    "trainee": "Trainee",
+    "trainer": "Trainer",
+    "admin": "Admin"
+  }
+}
